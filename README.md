@@ -23,6 +23,15 @@ python tests/independent_d35.py
 
 Both verifiers produce the same SHA-256 for `results/certificate_d35.json`. All files from the immutable D34 scientific source and older ancestors are copied into `prior/d34/` as ordinary files via `git archive`, without a nested Git repository or gitlinks.
 
+## Official DOI and verified publication
+
+- **Official DOI:** [10.5281/zenodo.24412435](https://doi.org/10.5281/zenodo.24412435).
+- **Public Zenodo record:** https://zenodo.org/records/24412435, 3/3 release files verified by public API against exact byte lengths and MD5.
+- **Frozen scientific source:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d35/tree/v0.1.0), scientific commit `72989a1fd2a7fb6e28522a0f2dcbe168924ca78d`.
+- **Scientific tag CI:** [GitHub Actions 44873487640](https://github.com/Topbrutus/polybrutus-d35/actions/runs/44873487640), success.
+- **Memoria checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D35_PUBLICATION_2026-11-21.md .
+- **Publications index:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md .
+
 ## Scientific source and limits
 
 - [Mathematical specification](SPECIFICATION_D35.md); [constructive proof and negative tests](PREUVE_D35.md); [provenance](PROVENANCE.md).

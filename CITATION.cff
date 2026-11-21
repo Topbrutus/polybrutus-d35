@@ -10,3 +10,5 @@ date-released: 2026-11-21
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d35
 abstract: "Exact 40-point Euclidean labelled metric preserving all 741 parent squared distances and a separately stipulated weighted-graph model."
+doi: 10.5281/zenodo.24412435
+url: https://doi.org/10.5281/zenodo.24412435
